@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 public class MainTest {
     @Test
     void checkGreetingTest() {
-        String name = "Eren";
-        assertEquals("Hello Eren", Main.greeting(name));
+        String name = "Bob";
+        assertEquals("Hello, Bob", Main.greeting(name));
     }
 }

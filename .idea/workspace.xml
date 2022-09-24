@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b6f61b6-e6a2-4af8-8ec0-6f60adfa5c50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/workflow.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/basic_app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/basic_app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/basic_app/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/basic_app/MainTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.basic_app.Main" />
       <module name="basic_app.main" />
@@ -100,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663993792479</updated>
-      <workItem from="1663993796780" duration="1595000" />
+      <workItem from="1663993796780" duration="2403000" />
     </task>
     <servers />
   </component>
